@@ -1,0 +1,2 @@
+# cscli
+Cribl Search CLI
